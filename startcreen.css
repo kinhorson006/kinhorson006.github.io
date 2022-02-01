@@ -1,0 +1,23 @@
+body {
+
+    padding-top: 250px;
+
+    background-color: black;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: azure;
+}
+
