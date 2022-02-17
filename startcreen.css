@@ -1,18 +1,21 @@
 body {
 
-    padding-top: 250px;
+    padding-top: 170px;
 
-    background-color: black;
-
+    background-image: url("background.jpg");
+    background-color: #cccccc;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
     display: flex;
-
     align-items: center;
-
     justify-content: center;
 
 }
 
 a.button {
+    font-size: 100px;
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
